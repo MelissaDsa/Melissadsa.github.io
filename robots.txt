@@ -6,3 +6,4 @@ Disallow: /images/
 Disallow: /css/
 Disallow: /js/
 Disallow: /fonts/
+Sitemap: https://melissadsa.github.io/sitemap.xml
